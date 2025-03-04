@@ -5,5 +5,5 @@ This is my Repo
 ### Education:
 - College: City College of Angeles (BSIS)
 - High School: Sapangbato Senior Highschool
-- Elementary: Gorndon Heights 1 Elementary School
+- Elementary: Gordon Heights 1 Elementary School
 
