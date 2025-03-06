@@ -10,7 +10,7 @@ This is my Repo
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/Task1.md)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel]((https://drive.google.com/file/d/1qFc3rfVUfHddIjTls-Qq7Y8vq9y65OvI/view)
 
-<h2> 🤳 Connect with me:</h2>
-[Gmail]: @kignacio24-0528@cca.edu.ph
+ 🤳 Connect with me:  
+<h2>[Gmail]: @kignacio24-0528@cca.edu.ph <h2>
 
 
