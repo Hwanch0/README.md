@@ -11,7 +11,6 @@ This is my Repo
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel]((https://drive.google.com/file/d/1qFc3rfVUfHddIjTls-Qq7Y8vq9y65OvI/view)
 
 <h2> 🤳 Connect with me:</h2>
-[Gmail]: https://gmail.com/kignacio24-0528@cca.edu.ph
+[Gmail]: @kignacio24-0528@cca.edu.ph
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
