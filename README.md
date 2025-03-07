@@ -12,7 +12,7 @@ This is my Repo
 
 ![screenshot](images/one.JPG)
 # Insert Image using img tag
-<img src="images/one.JPG" alt="Alt Text" width="400" height="300">
+<img src="images/one.JPG" alt="(https://github.com/Hwanch0/README.md/blob/2d01b8cbd60927bc650d8b3b93633d15f28ee268/Image/pic.jpg)" width="400" height="300">
 
  <h2>🤳Connect with me:<h2>
 [Gmail]: @kignacio24-0528@cca.edu.ph
