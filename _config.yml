@@ -1,7 +1,78 @@
-title: Kariel Portfolio
-logo: https://github.com/Hwanch0/README.md/blob/601ffad8928eed8d8d6e3d2b574b25d14c91750c/Image/pic.jpg
-show_download: true
-#theme: jekyll-theme-leap-day
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to plugins list if you already have one
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f4f8; /* Soft background color */
+    color: #333; /* Dark text color */
+}
+
+header {
+    background: linear-gradient(135deg, #6a82fb, #fc5c7d); /* Gradient background */
+    color: #ffffff;
+    padding: 40px 20px;
+    text-align: center;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.logo img {
+    width: 100px; /* Adjust the size of your logo */
+    border-radius: 50%; /* Circular logo */
+}
+
+h1 {
+    margin: 10px 0;
+    font-size: 2.5em;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+.projects {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #ffffff; /* White background for projects */
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #e1e4e8; /* Light border for projects */
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+.project:hover {
+    transform: scale(1.02); /* Slight zoom effect on hover */
+}
+
+.project h3 {
+    margin: 0;
+    color: #6a82fb; /* Project title color */
+}
+
+.project a {
+    color: #fc5c7d; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #6a82fb; /* Footer color */
+    color: #ffffff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
