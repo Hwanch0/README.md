@@ -1,7 +1,43 @@
-title: Kariel Portfolio
-logo: images/pic.jpg
-show_download: true
-#theme: jekyll-theme-leap-day
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to plugins list if you already have one
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name's GitHub Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Your Logo" />
+        </div>
+        <h1>Your Name</h1>
+        <p>Welcome to my GitHub portfolio! I am a [Your Profession/Role].</p>
+    </header>
+    
+    <main>
+        <section class="projects">
+            <h2>Projects</h2>
+            <div class="project">
+                <h3>Project 1</h3>
+                <p>A brief description of your project.</p>
+                <a href="https://github.com/yourusername/project1" target="_blank">View on GitHub</a>
+            </div>
+            <div class="project">
+                <h3>Project 2</h3>
+                <p>A brief description of your project.</p>
+                <a href="https://github.com/yourusername/project2" target="_blank">View on GitHub</a>
+            </div>
+            <div class="project">
+                <h3>Project 3</h3>
+                <p>A brief description of your project.</p>
+                <a href="https://github.com/yourusername/project3" target="_blank">View on GitHub</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Connect with me on <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a></p>
+    </footer>
+</body>
+</html>
