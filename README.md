@@ -7,7 +7,7 @@ This is my Repo
 - High School: Sapangbato Senior Highschool (2020-2023)
 - Elementary: Gordon Heights 1 Elementary School (2017-2020)
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%20/1Task1.md)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://github.com/Hwanch0/README.md/blob/main/Midterm%20Task%201/Task1.md)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel]((https://drive.google.com/file/d/1qFc3rfVUfHddIjTls-Qq7Y8vq9y65OvI/view)
 
  <h2>🤳Connect with me:<h2>
