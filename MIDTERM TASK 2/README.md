@@ -1,14 +1,16 @@
 # 𝐌𝐢𝐝𝐭𝐞𝐫𝐦 𝐋𝐚𝐛 𝐓𝐚𝐬𝐤 𝟐: 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐐𝐮𝐞𝐫𝐲 𝐄𝐝𝐢𝐭𝐨𝐫
 To extract useful information from the file UncleanedDSJObs.csv taken from a Job Posting site available in Kaggle.  
-## 𝒐𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆𝒔: 
+## 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬: 
 - to find out Which Job Roles pay the highest and least
 - to find out What size companies pay the best
 - to find out Where Job Roles or Job Titles pay the best and least in a specific state
 ## 𝐃𝐚𝐭𝐚 𝐒𝐞𝐭 𝐁𝐞𝐟𝐨𝐫𝐞 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
-![image](https://github.com/user-attachments/assets/40df216b-3bbe-4073-a47c-d7412e472515)
+
+![image](https://github.com/user-attachments/assets/d35fed9c-0c58-4722-989f-b0dbb19798da)
 
 
-## 𝐒𝐭𝐞𝐩𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠  𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
+
+## 𝐒𝐭𝐞𝐩𝐬 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐞𝐝 𝐢𝐧 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠 𝐚𝐧𝐝 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧:
 - Duplicated the raw data to preserve the original.  
 - Cleaned the salary estimate column by removing everything after the "(" symbol.  
 - Created Min Sal and Max Sal columns from the salary estimate.  
@@ -28,18 +30,24 @@ To extract useful information from the file UncleanedDSJObs.csv taken from a Job
 - Created a reference as Sal By State ref, selected State Full Name, Min Sal, and Max Sal, multiplied salaries by 1000, and grouped by State Full Name to get average salaries.  
 - Checked query dependencies to confirm correct relationships.  
 
-## 𝗙𝗶𝗻𝗮𝗹 𝗢𝘂𝘁𝗽𝘂𝘁 
-### 𝗖𝗹𝗲𝗮𝗻𝗲𝗱 𝗗𝗮𝘁𝗮
-https://drive.google.com/file/d/1ZkrblrggJJgX23H5nWRDOEWXJKmj0eJB/view?usp=classroom_web&authuser=0
+## 𝐅𝐢𝐧𝐚𝐥 𝐎𝐮𝐭𝐩𝐮𝐭
+### 𝐂𝐥𝐞𝐚𝐧𝐞𝐝 𝐃𝐚𝐭𝐚
+![image](https://github.com/user-attachments/assets/5bd26fdf-2453-4516-9c58-227acb6bfad3)
 
-### 𝐒𝐚𝐥 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐭𝐲𝐩𝐞 𝐝𝐮𝐩
+### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐓𝐲𝐩𝐞 𝐝𝐮𝐩
+![image](https://github.com/user-attachments/assets/6f63d3bb-ff22-4bba-ad81-a63479b108a3)
 
 
-### 𝐒𝐚𝐥 𝐛𝐲 𝐫𝐨𝐥𝐞 𝐒𝐢𝐳𝐞 𝐑𝐞𝐟
-![03](https://github.com/user-attachments/assets/4f7f9370-c2ac-4db5-88f7-ca13b170e17f)
+### 𝐒𝐚𝐥 𝐁𝐲 𝐑𝐨𝐥𝐞 𝐒𝐢𝐳𝐞 𝐫𝐞𝐟
+![image](https://github.com/user-attachments/assets/94b376e0-ee80-4a51-81d9-189ab2d592be)
 
-### 𝐒𝐚𝐥 𝐛𝐲 𝐒𝐭𝐚𝐭𝐞 𝐑𝐞𝐟
-![05](https://github.com/user-attachments/assets/918d9573-db3e-44fa-a23a-21cb714f3b09)
+### 𝐒𝐚𝐥 𝐁𝐲 𝐒𝐭𝐚𝐭𝐞 𝐫𝐞𝐟
+![image](https://github.com/user-attachments/assets/0ba06df9-28c3-4fe6-8a51-b75f6c3931e5)
+
 
 ### 𝐐𝐮𝐞𝐫𝐲 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
-![query dependencies](https://github.com/user-attachments/assets/044c4320-8233-4763-b535-f87e3fc80f3f)
+![image](https://github.com/user-attachments/assets/d3b6545e-895f-4866-bb47-0fd988194832)
+
+
+
+ 
