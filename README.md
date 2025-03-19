@@ -2,6 +2,9 @@
 This is my Repo
 ### About Me
 👋 Hi! I'm Kariel Ignacio, I'm a student studying Information Systems with a foundational knowledge of computer literacy. I'm passionate about expanding my skills in software development and data management. Currently, I'm working on personal projects to apply what I've learned and explore areas like web development. I'm eager to connect with others in the tech community, so feel free to reach out!
+<img allign = "left" alt="Coding" width="700" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif">
+
+
 ### Education:
 - College: City College of Angeles (BSIS) (2024-2025)
 - High School: Sapangbato Senior Highschool (2020-2023)
