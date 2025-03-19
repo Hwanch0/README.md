@@ -11,7 +11,8 @@ This is my Repo
 ### My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](https://github.com/Hwanch0/README.md/blob/main/Midterm%20Task%201/Task1.md)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](https://github.com/Hwanch0/README.md/blob/main/MIDTERM%20TASK%202/README.md)
- 
+ - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](https://github.com/Hwanch0/README.md/tree/main/MID%20TASK%203#readme)
+
  <h2>🤳Connect with me:<h2>
 [Gmail]: @kignacio24-0528@cca.edu.ph
 
