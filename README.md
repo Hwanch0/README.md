@@ -16,6 +16,7 @@ This is my Repo
 ### 𝐌𝐲 𝐅𝐢𝐧𝐚𝐥 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
  - Finals Lab Task 1: [MySQL Basis](https://github.com/Hwanch0/README.md/blob/main/Final%20Task%201%20/README.md).
  -  Finals Lab Task 2:[Transforming ER into Relational Tables]https://github.com/Hwanch0/README.md/blob/main/Final%20Task%202/task2.md
+ -  Finals Lab Task 3: [Table Manipulation] https://github.com/Hwanch0/README.md/blob/main/Final%20Task%203/Task3.md
 
  <h2>🤳Connect with me:<h2>
 [Gmail]: @kignacio24-0528@cca.edu.ph
