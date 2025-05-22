@@ -19,6 +19,7 @@ This is my Repo
  -  Finals Lab Task 3: [Table Manipulation](https://github.com/Hwanch0/README.md/blob/main/Final%20Task%203/Task3.md)
  -  Finals lab Task 4: [Using SELECT statement](https://github.com/Hwanch0/README.md/blob/main/Final%20Task%204/README.md).
  -  Finals lab Task 5:[Using SQL views and Stored Procedures and Stored Functions](https://github.com/Hwanch0/README.md/tree/main/Final%20Task%205)
+ -  Finals Lab Task 6 : [MongoDB Practice](https://github.com/Hwanch0/README.md/tree/main/Final%20Task6)
     
  <h2>🤳Connect with me:<h2>
 [Gmail]: @kignacio24-0528@cca.edu.ph
