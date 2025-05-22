@@ -21,6 +21,7 @@
 
 
   -  𝖨𝗇𝗀𝗅𝗈𝗋𝗂𝗈𝗎𝗌 𝖡𝖺𝗌𝗍𝖾𝗋𝖽𝗌
+    
 ![image](https://github.com/user-attachments/assets/92da293a-8a7d-4a25-a733-97f32af82352)
 
 
@@ -30,6 +31,7 @@
 
 
   -  𝖳𝗁𝖾 𝖧𝗈𝖻𝖻𝗂𝗍: 𝖳𝗁𝖾 𝖣𝖾𝗌𝗈𝗅𝖺𝗍𝗂𝗈𝗇 𝗈𝖿 𝖲𝗆𝖺𝗎𝗀
+    
    ![image](https://github.com/user-attachments/assets/64cad6e6-1433-46bc-869a-4e10a458801b)
 
 
@@ -39,6 +41,7 @@
 
 
   -  𝖯𝖾𝖾 𝖶𝖾𝖾 𝖧𝖾𝗋𝗆𝖺𝗇'𝗌 𝖡𝗂𝗀 𝖠𝖽𝗏𝖾𝗇𝗍𝗎𝗋𝖾
+    
   ![image](https://github.com/user-attachments/assets/815ad280-1083-4b91-adf9-17be51f5af4c)
 
 
@@ -54,24 +57,22 @@
 - 𝗊𝗎𝖾𝗋𝗒 𝗍𝗁𝖾 `𝗆𝗈𝗏𝗂𝖾𝗌` 𝖼𝗈𝗅𝗅𝖾𝖼𝗍𝗂𝗈𝗇 𝗍𝗈
 
 1. 𝐠𝐞𝐭 𝐚𝐥𝐥 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬
-```
+
 db.movies.find()
-```
+
 ![image](https://github.com/user-attachments/assets/650d4b8a-6ee4-4fec-8aa5-556db602abe2)
 
-```
-2. 𝐠𝐞𝐭 𝐚𝐥𝐥 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 𝐰𝐢𝐭𝐡 `𝐰𝐫𝐢𝐭𝐞𝐫` 𝐬𝐞𝐭 𝐭𝐨 "𝐐𝐮𝐞𝐧𝐭𝐢𝐧 𝐓𝐚𝐫𝐚𝐧𝐭𝐢𝐧𝐨"
-
-db.movies.find({writer:"Quentin Tarantino"})
+2. 𝐠𝐞𝐭 𝐚𝐥𝐥 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 𝐰𝐢𝐭𝐡 `𝐰𝐫𝐢𝐭𝐞𝐫` 𝐬𝐞𝐭 𝐭𝐨 "𝐐𝐮𝐞𝐧𝐭𝐢𝐧 𝐓𝐚𝐫𝐚𝐧𝐭𝐢𝐧𝐨
 
 
-![image](https://github.com/user-attachments/assets/3733e11b-5339-407a-8001-2a1e55b4c360)
+![image (1)](https://github.com/user-attachments/assets/2b1343de-65a6-47d4-b9c3-1c0cb57e08c0)
+
 
 3. 𝐠𝐞𝐭 𝐚𝐥𝐥 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 𝐰𝐡𝐞𝐫𝐞 `𝐚𝐜𝐭𝐨𝐫𝐬` 𝐢𝐧𝐜𝐥𝐮𝐝𝐞 "𝐁𝐫𝐚𝐝 𝐏𝐢𝐭𝐭"
 
 db.movies.find({actors:"Brad Pitt"})
 
-![image](https://github.com/user-attachments/assets/b64a9c7b-b372-405a-b82e-c003bde90fd5)
+![image](https://github.com/user-attachments/assets/b64a9c7b-b372-405a-b82e-c003bde90fd5).
 
 4. 𝐠𝐞𝐭 𝐚𝐥𝐥 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 𝐰𝐢𝐭𝐡 `𝐟𝐫𝐚𝐧𝐜𝐡𝐢𝐬𝐞` 𝐬𝐞𝐭 𝐭𝐨 "𝐓𝐡𝐞 𝐇𝐨𝐛𝐛𝐢𝐭"
 ```
@@ -114,12 +115,12 @@ db.movies.find({$or:[{year:{$gt:"2010"}},{year: {$lt:"2000"}}]})
 
 - Find movies with "Gandalf"
 
-![image](https://github.com/user-attachments/assets/b69261f3-b967-48f1-bcac-255a0fbee65d)
+![image](https://github.com/user-attachments/assets/b69261f3-b967-48f1-bcac-255a0fbee65d).
 
 
 - Find movies with "Bilbo" but not "Gandalf"
 
-![image](https://github.com/user-attachments/assets/f1cccbed-4f9e-4ae7-8d80-9661147e2e76)
+![image](https://github.com/user-attachments/assets/f1cccbed-4f9e-4ae7-8d80-9661147e2e76).
 
 
 - Find movies with "dwarves" or "hobbit"
